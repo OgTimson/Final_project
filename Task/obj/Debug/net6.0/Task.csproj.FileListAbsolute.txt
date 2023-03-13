@@ -1,0 +1,15 @@
+D:\Courses Geekbrains\Final project (1 quarter)\Task\bin\Debug\net6.0\Task.exe
+D:\Courses Geekbrains\Final project (1 quarter)\Task\bin\Debug\net6.0\Task.deps.json
+D:\Courses Geekbrains\Final project (1 quarter)\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\Courses Geekbrains\Final project (1 quarter)\Task\bin\Debug\net6.0\Task.dll
+D:\Courses Geekbrains\Final project (1 quarter)\Task\bin\Debug\net6.0\Task.pdb
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.dll
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\refint\Task.dll
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.pdb
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\Courses Geekbrains\Final project (1 quarter)\Task\obj\Debug\net6.0\ref\Task.dll
