@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Ognevy"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-13 07:15:21 "/>
+        <attribute name="created" value="T2duZXZ5O0RFU0tUT1AtUTFPUTBWQjsyMDIzLTAzLTEyOyIwMzo0NzowMiAiOzI4ODk="/>
+        <attribute name="edited" value="T2duZXZ5O0RFU0tUT1AtUTFPUTBWQjsyMDIzLTAzLTEzOyIwNzoxNToyMSAiOzI7Mjk5OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="array" type="String" array="True" size="4"/>
+            <assign variable="array[0]" expression="&quot;hello&quot;"/>
+            <assign variable="array[1]" expression="&quot;2&quot;"/>
+            <assign variable="array[2]" expression="&quot;world&quot;"/>
+            <assign variable="array[3]" expression="&quot;:-)&quot;"/>
+            <output expression="&quot;[ &quot; &amp; array[0] &amp; &quot; &quot; &amp; array[1] &amp; &quot; &quot; &amp; array[2] &amp; &quot; &quot; &amp; array[3] &amp; &quot; ]  -&gt;  &quot;" newline="False"/>
+            <declare name="i, charStr" type="Integer" array="False" size=""/>
+            <declare name="arr" type="String" array="True" size="Size(array)"/>
+            <output expression="&quot;[ &quot;" newline="False"/>
+            <for variable="i" start="0" end="Size(array) - 1" direction="inc" step="1">
+                <assign variable="charStr" expression="Len(array[i])"/>
+                <if expression="charStr &lt;= 3">
+                    <then>
+                        <assign variable="arr[i]" expression="array[i]"/>
+                        <output expression="arr[i] &amp; &quot;  &quot;" newline="False"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <output expression="&quot;]&quot;" newline="False"/>
+        </body>
+    </function>
+</flowgorithm>
